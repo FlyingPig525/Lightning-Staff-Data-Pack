@@ -1,0 +1,1 @@
+tellraw @a {"text": "Lightning Staff - By FlyingPig525", "color": "#02ab83"}

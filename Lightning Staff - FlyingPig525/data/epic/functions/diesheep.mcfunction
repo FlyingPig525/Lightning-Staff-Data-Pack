@@ -1,0 +1,1 @@
+execute at @p run kill @e[type=sheep]

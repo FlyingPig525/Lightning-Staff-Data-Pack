@@ -1,0 +1,1 @@
+execute if entity @e[type=minecraft:trident] run particle minecraft:crit ~ ~ ~
